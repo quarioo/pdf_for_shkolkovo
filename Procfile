@@ -1,0 +1,1 @@
+web: gunicorn 'pdf_for_schkolkovo.wsgi'
